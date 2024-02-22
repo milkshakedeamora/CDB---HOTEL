@@ -1,0 +1,14 @@
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.AssemblyInfoInputs.cache
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.AssemblyInfo.cs
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.csproj.CoreCompileInputs.cache
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\bin\Debug\net8.0\ReservaEmHotel.exe
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\bin\Debug\net8.0\ReservaEmHotel.deps.json
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\bin\Debug\net8.0\ReservaEmHotel.runtimeconfig.json
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\bin\Debug\net8.0\ReservaEmHotel.dll
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\bin\Debug\net8.0\ReservaEmHotel.pdb
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.dll
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\refint\ReservaEmHotel.dll
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.pdb
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ReservaEmHotel.genruntimeconfig.cache
+C:\Users\Paula\OneDrive\Área de Trabalho\CBD-POO2\ReservaEmHotel\obj\Debug\net8.0\ref\ReservaEmHotel.dll
